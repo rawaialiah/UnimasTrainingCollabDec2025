@@ -1,4 +1,9 @@
-Ng Boon Khai
+Ng Bong Khai
     - Born: 2025, Jakarta, Indonesia
     - Hobby: Basketball
+    - Profession: Student
+
+Rawaidatul Aliah
+    - Born: 2004, Kuala Lumpur, Malaysia
+    - Hobby: Watching Netflix
     - Profession: Student
